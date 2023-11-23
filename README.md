@@ -1,4 +1,4 @@
-## Hi, I'm Thairinck 
+## Thairinck da Silva 
 - Graduando em Análise e Desenvolvimento de Sistemas.
 - Técnico em Informática pelo Instituto Federal Catarinense.
 - Desenvolvedor Mobile.
