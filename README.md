@@ -1,11 +1,11 @@
 ## Hi, I'm Thairinck 
 - Graduando em Análise e Desenvolvimento de Sistemas.
 - Técnico em Informática pelo Instituto Federal Catarinense.
-- Web Designer futuro dev.
+- Desenvolvedor Mobile.
 ## Sobre mim:
-- 22 anos
+- 23 anos
 - Atualmente morando em São José, SC
-- Sou freelancer e trabalho home office ☕👻
+
 ### Onde me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thairinck-silva/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/thairinck)
