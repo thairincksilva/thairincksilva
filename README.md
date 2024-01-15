@@ -4,7 +4,7 @@
 - Desenvolvedor Mobile.
 ## Sobre mim:
 - 23 anos
-- Atualmente morando em São José, SC
+- São José, SC
 
 ### Onde me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thairinck-silva/)
