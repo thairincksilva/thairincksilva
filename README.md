@@ -1,5 +1,5 @@
 ## Thairinck da Silva 
-- Graduando em Análise e Desenvolvimento de Sistemas.
+- Ciência da Computação | Unisul
 - Técnico em Informática pelo Instituto Federal Catarinense.
 - Desenvolvedor Mobile.
 ## Sobre mim:
