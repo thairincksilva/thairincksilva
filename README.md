@@ -1,5 +1,4 @@
 ## Thairinck da Silva 
-- Desenvolvedor Web.
 - Ciência da Computação | Unisul
 - Técnico em Informática pelo Instituto Federal Catarinense
 - 23 anos
